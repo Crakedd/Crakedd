@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crakedd (Ayush Kumar)
+- 👋 Hi, I’m @Crakedd (Lakshya Kumar Singh)
 - 👀 I’m interested in exploring AI to its limits.
 - 🌱 I’m currently learning quantum computing
 - 😄 Pronouns: He/Him
